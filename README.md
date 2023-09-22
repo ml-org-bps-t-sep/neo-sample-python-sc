@@ -1,2 +1,1 @@
-# neo-sample-python-sc
-This repo provides simple sample Neo DApp using Python for smart contracts and node.js for web app.
+a977745e8ffaf89b7a0234d56b601e6018ba37be
